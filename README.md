@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThiagoHenriqueCampra&label=Profile views&color=0e75b6&style=flat" alt="ThiagoHenriqueCampra" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ThiagoHenriqueCampra" alt="ThiagoHenriqueCampra" /></a> </p>
-
 - 🔭 I'm currently working on **mastering JavaScript and web development**
 
 - 🌱 I'm currently learning **Full-Stack Development (Frontend & Backend)**
