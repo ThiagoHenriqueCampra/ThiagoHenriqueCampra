@@ -1,84 +1,82 @@
 <div align="center">
 
-  <!-- Banner de cabeçalho -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=250&section=header&text=Seu%20Nome%20ou%20Projeto&fontSize=50&animation=fadeIn&fontColor=ffffff" width="100%" />
+  <!-- Banner de cabeçalho dinâmico -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=250&section=header&text=Thiago%20Henrique%20Campra&fontSize=42&animation=fadeIn&fontColor=ffffff" width="100%" />
 
-  # 🚀 Nome do Projeto
+  # 👋 Olá, eu sou o Thiago Henrique Campra
 
-  > *Uma frase impactante e curta descrevendo o objetivo principal do seu projeto.*
+  ### 💡 *Criando soluções simples para problemas complexos*
 
-  <!-- Badges do projeto -->
   <p align="center">
-    <a href="#-sobre">Sobre</a> •
-    <a href="#-tecnologias">Tecnologias</a> •
-    <a href="#-como-executar">Como Executar</a> •
-    <a href="#-funcionalidades">Funcionalidades</a> •
-    <a href="#-licença">Licença</a>
+    <a href="https://11062026.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Acesse_Meu_Portfólio-11062026.vercel.app-8A2BE2?style=for-the-badge" alt="Portfólio" />
+    </a>
   </p>
 
+  <!-- Contador de visitas -->
   <p align="center">
-    <img src="https://img.shields.io/github/stars/seu-usuario/seu-repositorio?style=for-the-badge&color=8A2BE2" alt="Stars" />
-    <img src="https://img.shields.io/github/forks/seu-usuario/seu-repositorio?style=for-the-badge&color=8A2BE2" alt="Forks" />
-    <img src="https://img.shields.io/github/license/seu-usuario/seu-repositorio?style=for-the-badge&color=8A2BE2" alt="License" />
+    <img src="https://komarev.com/ghpvc/?username=ThiagoHenriqueCampra&label=Profile%20views&color=8A2BE2&style=flat-square" alt="Views" />
   </p>
 
 </div>
 
 ---
 
-## 💻 Sobre o Projeto
+## 🚀 Sobre Mim
 
-Descreva aqui os detalhes do seu projeto. Explique qual problema ele resolve, o motivo de ter sido construído e quais são seus diferenciais.
-
-> 💡 **Dica:** Adicione um GIF ou uma imagem do projeto rodando logo abaixo para chamar bastante atenção!
-
-<div align="center">
-  <img src="https://via.placeholder.com/800x400?text=Sua+Demonstracao+Aqui+(GIF+ou+Imagem)" alt="Demonstração do Projeto" width="800px" />
-</div>
-
----
-
-## ✨ Funcionalidades
-
-- [x] **Funcionalidade 1:** Descrição rápida da funcionalidade.
-- [x] **Funcionalidade 2:** Descrição rápida da funcionalidade.
-- [x] **Funcionalidade 3:** Descrição rápida da funcionalidade.
-- [ ] **Modo Escuro:** Em desenvolvimento...
+- 🔭 **Foco Atual:** Aperfeiçoando conhecimentos em JavaScript e Desenvolvimento Web.
+- 🌱 **Aprendendo:** Desenvolvimento Full-Stack (Frontend & Backend).
+- 👯 **Colaboração:** Aberto a colaborar em projetos de Desenvolvimento Web Full-Stack.
+- 🤝 **Buscando ajuda:** Arquitetura Backend e JavaScript Avançado[cite: 1].
+- 💬 **Interesses:** Programação, videojogos, futebol e boa música ⚽💻🎮[cite: 1].
+- ⚡ **Fun Fact:** Já passei 2 horas a depurar um código só para descobrir que tinha esquecido de um ponto e vírgula 😅[cite: 1].
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Linguagens e Ferramentas
 
-As seguintes ferramentas e linguagens foram utilizadas na construção do projeto:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,ts,sass,firebase,docker,linux,bash,git,figma&perline=7" />
+  </a>
 </p>
 
 ---
 
-## 🚀 Como Executar
+## 📊 Estatísticas do GitHub
 
-### Pré-requisitos
+<div align="center">
+  <a href="https://github.com/ThiagoHenriqueCampra">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoHenriqueCampra&show_icons=true&theme=radial&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoHenriqueCampra&layout=compact&theme=radial" />
+  </a>
+  <br />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoHenriqueCampra&theme=radial" alt="Streak Stats" />
+</div>
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/pt-br/). 
+<br />
 
-```bash
-# Clone este repositório
-$ git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ThiagoHenriqueCampra&theme=flat" alt="Troféus do GitHub" />
+</div>
 
-# Acesse a pasta do projeto no terminal/cmd
-$ cd seu-repositorio
+---
 
-# Instale as dependências
-$ npm install
+## 📬 Conecte-se Comigo
 
-# Execute a aplicação em modo de desenvolvimento
-$ npm run dev
+<div align="center">
 
-# A aplicação vai abrir na porta:3000 - acesse http://localhost:3000
+  [![Portfolio](https://img.shields.io/badge/Portfólio-11062026.vercel.app-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://11062026.vercel.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/THIAGO%20HENRIQUE%20CAMPRA)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thiagocampra_)
+  [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devto&logoColor=white)](https://dev.to/THIAGO%20HENRIQUE%20CAMPRA)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagocampra2301@gmail.com)
+
+</div>
+
+---
+
+<p align="center">
+  <i>Desenvolvido por <b>Thiago Henrique Campra</b> 🚀</i>
+</p>
