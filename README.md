@@ -2,8 +2,6 @@
 
 ### Criando soluções simples para problemas complexos 💡
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThiagoHenriqueCampra&label=Profile views&color=0e75b6&style=flat" alt="ThiagoHenriqueCampra" /> </p>
-
 - 🔭 I'm currently working on **mastering JavaScript and web development**
 
 - 🌱 I'm currently learning **Full-Stack Development (Frontend & Backend)**
